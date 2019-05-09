@@ -1,7 +1,7 @@
-package org.abimon.kjukebox
+package dev.eternalbox.kjukebox
 
-import org.abimon.kjukebox.InfiniteJukeboxComponent
-import org.abimon.kjukebox.InfiniteJukeboxEdge
+import dev.eternalbox.kjukebox.InfiniteJukeboxComponent
+import dev.eternalbox.kjukebox.InfiniteJukeboxEdge
 
 data class InfiniteJukeboxBranch(
         val percent: Double,

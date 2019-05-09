@@ -1,4 +1,4 @@
-package org.abimon.kjukebox
+package dev.eternalbox.kjukebox
 
 data class InfiniteJukeboxAnalysis(
         val sections: Array<InfiniteJukeboxSection>,

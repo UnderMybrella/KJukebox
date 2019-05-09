@@ -1,3 +1,3 @@
-package org.abimon.kjukebox
+package dev.eternalbox.kjukebox
 
 data class EternalJukeboxSummary(val duration: Double)
